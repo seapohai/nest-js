@@ -1,0 +1,65 @@
+{
+  "1": {
+    "id": 1,
+    "username": "Testing",
+    "password": "password123",
+    "name": "John Doe",
+    "gender": "male",
+    "age": 28,
+    "email": "john.doe@example.com"
+  },
+  "2": {
+    "id": 2,
+    "username": "Testing",
+    "password": "password123",
+    "name": "John Doe",
+    "gender": "male",
+    "age": 28,
+    "email": "john.doe@example.com"
+  },
+  "3": {
+    "id": 3,
+    "username": "Testing",
+    "password": "password123",
+    "name": "John Doe",
+    "gender": "male",
+    "age": 28,
+    "email": "john.doe@example.com"
+  },
+  "4": {
+    "id": 4,
+    "username": "Testing",
+    "password": "password123",
+    "name": "John Doe",
+    "gender": "male",
+    "age": 28,
+    "email": "john.doe@example.com"
+  },
+  "5": {
+    "id": 5,
+    "username": "Testing",
+    "password": "password123",
+    "name": "John Doe",
+    "gender": "male",
+    "age": 28,
+    "email": "john.doe@example.com"
+  },
+  "6": {
+    "id": 6,
+    "username": "Testing",
+    "password": "password123",
+    "name": "John Doe",
+    "gender": "male",
+    "age": 28,
+    "email": "john.doe@example.com"
+  },
+  "7": {
+    "id": 7,
+    "username": "Testing",
+    "password": "password123",
+    "name": "John Doe",
+    "gender": "male",
+    "age": 28,
+    "email": "john.doe@example.com"
+  }
+}

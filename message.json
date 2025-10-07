@@ -1,8 +1,17 @@
 {
-  "571": { "id": 571, "content": "Hello" },
-  "710": { "id": 710, "content": "Hellooooo" },
-  "959": { "id": 959, "content": "Hellooooo" },
-  "message": { "content": "hi there message", "id": 1 },
-  "message_one": { "content": "hi there message", "id": 2 },
-  "message_two": { "content": "hi there message", "id": 3 }
+  "1": {
+    "id": 1,
+    "content": "message 1",
+    "name": "name 1"
+  },
+  "2": {
+    "id": 2,
+    "content": "Message ",
+    "name": "Hlelo"
+  },
+  "6": {
+    "id": 6,
+    "content": "Message ",
+    "name": "Hlelo"
+  }
 }

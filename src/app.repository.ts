@@ -1,10 +1,9 @@
-import { write } from 'fs';
 import { readFile, writeFile } from 'fs/promises';
 
 export class AppRepository {
   async findOne(id: string) {
     const contents = await readFile('message.json', 'utf-8');
-    const messages = JSON.parse(contents);
+    const messages: Record<string, { id: number; content: string }> = JSON.parse(contents);
 
     return messages[id];
   }
